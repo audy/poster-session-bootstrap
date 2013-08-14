@@ -16,7 +16,15 @@ Yes it's boring. You can jazz it up yourself.
 git clone https://github.com/audy/poster-session-bootstrap.git
 cd poster-session-bootstrap
 bundle
+
+# run webserver on http://localhost:4567
+# automatically updates when changes are made.
 rake preview
+
+# saves a screenshot of the page to screenshot.png
+# (must have Firefox installed)
+rake render
+open screenshot.png
 ```
 
 Edit the markdown files in `views/` to add content. Change `layout.haml`
