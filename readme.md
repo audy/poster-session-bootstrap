@@ -8,6 +8,8 @@ content of the poster rather than the design.
 
 <img src="http://i.imgur.com/v6ifIqB.png">
 
+Yes it's boring. You can jazz it up yourself.
+
 ## Usage
 
 ```
