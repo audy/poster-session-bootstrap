@@ -2,7 +2,7 @@
 
 %html
   %head
-    %title Poster Title Here
+    %title=File.readlines('views/title.md').first.strip[2..-1]
 
     %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/bootstrap.min.css' }
 
