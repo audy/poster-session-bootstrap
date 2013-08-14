@@ -1,0 +1,35 @@
+!!! html5
+
+%html
+  %head
+    %title Poster Title Here
+
+    %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/bootstrap.min.css' }
+
+  %body
+    %div.container
+      %div.row
+        %div.col-lg-12
+          = markdown :title
+      %div.row
+        %div.col-lg-6
+          = markdown :abstract
+        %div.col-lg-6
+          = markdown :background
+      %div.row
+        %hr
+      %div.row
+        %div.col-lg-4
+          = markdown :methods
+        %div.col-lg-4
+          = markdown :results
+        %div.col-lg-4
+          = markdown :discussion
+      %div.row
+        %div.col-lg-8
+          = markdown :conclusion
+        %div.col-lg-4
+          = markdown :acknowledgements
+      %div.row
+        %div.col-lg-12
+          = markdown :references
