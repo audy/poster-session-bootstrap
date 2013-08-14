@@ -4,6 +4,10 @@ Designing posters can be a real chore especially if you're a
 perfectionist. Poster-Session-Boostrap allows you to focus on the
 content of the poster rather than the design.
 
+## Preview
+
+<img src="http://i.imgur.com/v6ifIqB.png">
+
 ## Usage
 
 ```
