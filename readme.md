@@ -26,7 +26,7 @@ bundle
 rake preview
 
 # saves a screenshot of the page to screenshot.png
-# (must have Firefox installed)
+# (must have Firefox installed, and `rake preview` must be running)
 rake render
 open screenshot.png
 ```
