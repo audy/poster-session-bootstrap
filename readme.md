@@ -43,7 +43,7 @@ be generated.
 
 ## License
 
-Copyright (C) 2013 Austin G. Davis-Richardson
+Copyright (C) 2015 Austin G. Davis-Richardson
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
