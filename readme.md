@@ -10,6 +10,10 @@ content of the poster rather than the design.
 
 Yes it's boring. You can jazz it up yourself.
 
+Did I mention it's responsive?
+
+<img src="http://i.imgur.com/r79kWoo.png">
+
 ## Usage
 
 ```
