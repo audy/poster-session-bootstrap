@@ -34,6 +34,13 @@ open screenshot.png
 Edit the markdown files in `views/` to add content. Change `layout.haml`
 if you want to alter the design.
 
+## Caveats!!
+
+It is still difficult to convert the page into something that can be printed on
+a large poster. I achieved this by rendering a really large png file. In the
+future, it would be cool if a PDF in the right dimensions and resolution could
+be generated.
+
 ## License
 
 Copyright (C) 2013 Austin G. Davis-Richardson
